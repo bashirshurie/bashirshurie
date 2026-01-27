@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Bashir Abdinasir
 
-<!--
-**bashirshurie/bashirshurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a background in Computer Science.
+Currently learning Java backend development using Spring Boot,
+with experience in full-stack web development using React.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://bashir-abdinasir.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/bashir-abdinasir/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Java (learning)
+- Spring Boot (learning)
+- SQL
+- REST APIs
+- React
+- JavaScript
+- Python
+- Git & GitHub
+
+### 🚀 Goals
+- Become a strong Java Backend Developer
+- Build real-world backend projects
+- Grow professionally in software engineering
