@@ -8,8 +8,8 @@ with experience in full-stack web development using React.
 💼 LinkedIn: https://www.linkedin.com/in/bashir-abdinasir/
 
 ### 🔧 Skills
-- Java (learning)
-- Spring Boot (learning)
+- Java 
+- Spring Boot 
 - SQL
 - REST APIs
 - React
