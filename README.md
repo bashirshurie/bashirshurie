@@ -4,7 +4,7 @@ Software Developer with a background in Computer Science.
 Currently learning Java backend development using Spring Boot,
 with experience in full-stack web development using React.
 
-🌐 Portfolio: https://bashir-abdinasir.netlify.app  
+🌐 Portfolio: https://www.bashirabdinasir.dev/
 💼 LinkedIn: https://www.linkedin.com/in/bashir-abdinasir/
 
 ### 🔧 Skills
